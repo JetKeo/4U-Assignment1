@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package a1q1;
+package assignment1;
 
 import java.util.Scanner;
 
